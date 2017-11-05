@@ -1,6 +1,10 @@
-update=Tue 18 Jul 2017 19:03:53 CEST
+update=02-11-2017 20:21:36
 version=1
 last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,13 +27,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../../kicad/library
 [eeschema/libraries]
-LibName1=knielsenlib
+LibName1=D:/Sync/kicad/library/paccerlib
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -59,4 +61,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=ESP8266
